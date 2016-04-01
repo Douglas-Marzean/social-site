@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'gravatarify'
 gem 'public_activity'
+gem 'auto_html'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
