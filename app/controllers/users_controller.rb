@@ -15,6 +15,7 @@ class UsersController < ApplicationController
 	end
 
   def show
+    @activities = PublicActivity.where(owner_id: @user.id)
   end
 
   private

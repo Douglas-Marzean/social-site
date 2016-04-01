@@ -17,6 +17,7 @@ gem 'twitter-bootstrap-rails'
 gem 'simple_form'
 gem 'devise'
 gem 'gravatarify'
+gem 'public_activity'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
